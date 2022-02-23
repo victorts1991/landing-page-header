@@ -1,7 +1,7 @@
 # landing-page-header
 A simple header that can be used in landing pages, buit with React.js and ChakraUI.
 
-![Video 1](video1.mp4)
+![Demo Video](demo_video.gif)
 
 ## Running Locally
 
