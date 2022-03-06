@@ -1,5 +1,5 @@
 # landing-page-header
-A simple header that can be used in landing pages, built with React.js and ChakraUI.
+A simple header with reponsive design that can be used in landing pages, built with React.js and ChakraUI.
 
 ![Demo Video](demo_video.gif)
 
